@@ -17,6 +17,7 @@ BuildArch:      noarch
 BuildRequires:  python2-devel
 BuildRequires:  python-pbr
 BuildRequires:  python-setuptools
+BuildRequires:  python-sphinx
 
 Requires:       python-pbr
 Requires:       python-babel
